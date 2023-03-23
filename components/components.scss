@@ -1,0 +1,5 @@
+$theme-color:  #195307;
+
+.btn-success{
+    @include button-variant($theme-color)
+}
